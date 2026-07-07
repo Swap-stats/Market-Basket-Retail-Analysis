@@ -35,9 +35,6 @@ This project performs **Market Basket Analysis (MBA)** on retail transaction dat
 
 It contains transactional data from a UK-based online retailer, including invoice numbers, product descriptions, quantities, prices, customers, and countries.
 
-Dataset link:
-https://archive.ics.uci.edu/dataset/352/online-retail
-
 ---
 
 ## 📊 Project Workflow
@@ -65,9 +62,7 @@ https://archive.ics.uci.edu/dataset/352/online-retail
 
 ## 📸 Dashboard Preview
 
-```markdown
-![Dashboard](images/dashboard.png)
-```
+![Dashboard](Market_analysis_dashboard.png)
 
 
 
